@@ -1,2 +1,2 @@
-# magic-letter-square
+# magic-word-square
 Finding a 4x4 square made of words containing each letter only once...
